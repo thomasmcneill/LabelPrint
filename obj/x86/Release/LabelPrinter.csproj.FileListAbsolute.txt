@@ -1,0 +1,22 @@
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\LabelPrinter\LabelPrinter\bin\Release\LabelPrinter.exe
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\LabelPrinter\LabelPrinter\bin\Release\LabelPrinter.pdb
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\LabelPrinter\LabelPrinter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\LabelPrinter\LabelPrinter\obj\x86\Release\LabelPrinter.Form1.resources
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\LabelPrinter\LabelPrinter\obj\x86\Release\LabelPrinter.Properties.Resources.resources
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\LabelPrinter\LabelPrinter\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\LabelPrinter\LabelPrinter\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\LabelPrinter\LabelPrinter\obj\x86\Release\LabelPrinter.exe
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\LabelPrinter\LabelPrinter\obj\x86\Release\LabelPrinter.pdb
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Release\LabelPrinter.exe
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Release\LabelPrinter.pdb
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Release\LabelPrinter.exe.manifest
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Release\LabelPrinter.application
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Release\LabelPrinter.exe
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Release\LabelPrinter.pdb
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Release\LabelPrinter.Form1.resources
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Release\LabelPrinter.Properties.Resources.resources
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Release\LabelPrinter.exe.manifest
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Release\LabelPrinter.application

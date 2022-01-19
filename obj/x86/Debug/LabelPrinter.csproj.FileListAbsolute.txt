@@ -1,0 +1,75 @@
+C:\Users\Thomas\AppData\Local\Temporary Projects\LabelPrinter\bin\Debug\LabelPrinter.exe
+C:\Users\Thomas\AppData\Local\Temporary Projects\LabelPrinter\bin\Debug\LabelPrinter.pdb
+C:\Users\Thomas\AppData\Local\Temporary Projects\LabelPrinter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thomas\AppData\Local\Temporary Projects\LabelPrinter\obj\x86\Debug\LabelPrinter.Form1.resources
+C:\Users\Thomas\AppData\Local\Temporary Projects\LabelPrinter\obj\x86\Debug\LabelPrinter.Properties.Resources.resources
+C:\Users\Thomas\AppData\Local\Temporary Projects\LabelPrinter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thomas\AppData\Local\Temporary Projects\LabelPrinter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Thomas\AppData\Local\Temporary Projects\LabelPrinter\obj\x86\Debug\LabelPrinter.exe
+C:\Users\Thomas\AppData\Local\Temporary Projects\LabelPrinter\obj\x86\Debug\LabelPrinter.pdb
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.exe
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.pdb
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.exe
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.pdb
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.Form1.resources
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.Properties.Resources.resources
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thomas\Documents\Visual Studio 2010\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.exe
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.pdb
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.Form1.resources
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.Properties.Resources.resources
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.exe
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.pdb
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.exe.manifest
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.application
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.exe.manifest
+C:\Users\Thomas\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.application
+C:\Users\User\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.exe
+C:\Users\User\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.pdb
+C:\Users\User\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.exe.manifest
+C:\Users\User\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.application
+C:\Users\User\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.exe
+C:\Users\User\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.pdb
+C:\Users\User\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.csprojResolveAssemblyReference.cache
+C:\Users\User\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.Form1.resources
+C:\Users\User\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.Properties.Resources.resources
+C:\Users\User\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.csproj.GenerateResource.Cache
+C:\Users\User\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.exe.manifest
+C:\Users\User\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.application
+C:\Users\Owner\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.exe
+C:\Users\Owner\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.pdb
+C:\Users\Owner\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.Form1.resources
+C:\Users\Owner\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.Properties.Resources.resources
+C:\Users\Owner\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.csproj.GenerateResource.Cache
+C:\Users\Owner\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.exe.manifest
+C:\Users\Owner\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.application
+C:\Users\Owner\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.exe
+C:\Users\Owner\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.pdb
+C:\Users\Owner\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.exe.manifest
+C:\Users\Owner\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.application
+A:\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.csprojAssemblyReference.cache
+A:\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.Form1.resources
+A:\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.Properties.Resources.resources
+A:\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.csproj.GenerateResource.cache
+A:\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.csproj.CoreCompileInputs.cache
+A:\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.exe
+A:\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.pdb
+A:\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.exe.manifest
+A:\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.application
+A:\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.exe
+A:\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.pdb
+A:\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.exe.manifest
+A:\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.application
+A:\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.exe.config
+A:\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\BarcodeStandard.dll
+A:\Google Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\System.Drawing.Common.dll
+A:\Google Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.csproj.CopyComplete
+G:\My Drive\Projects\LabelPrinter\LabelPrinter\bin\Debug\LabelPrinter.exe.config
+G:\My Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.exe
+G:\My Drive\Projects\LabelPrinter\LabelPrinter\obj\x86\Debug\LabelPrinter.pdb
